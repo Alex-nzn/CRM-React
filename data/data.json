@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "5c29",
+      "name": "Александр Корейко",
+      "phone": 89998887700,
+      "email": "alex@yandex.ru",
+      "product": "course-html"
+    },
+    {
+      "id": "f08f",
+      "name": "Александр Корейко",
+      "phone": 89998887700,
+      "email": "alex@yandex.ru",
+      "product": "course-html"
+    },
+    {
+      "id": "a10b",
+      "name": "Зося Синицкая",
+      "phone": 89998887799,
+      "email": "zosya@gmail.com",
+      "product": "course-php"
+    }
+  ]
+}
